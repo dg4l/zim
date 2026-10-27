@@ -1,5 +1,6 @@
 # zim
 A simple zig install manager written in python
+
 **Requires python 3.11.4+**
 
 ## Installation
